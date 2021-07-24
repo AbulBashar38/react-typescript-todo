@@ -1,0 +1,9 @@
+.list-container{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.list-container button{
+    margin-left: 5rem;
+}
